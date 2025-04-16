@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data
+data/*.json
+
+# Logs
+*.log
+
+# Environment
+.env

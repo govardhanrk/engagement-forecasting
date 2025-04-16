@@ -1,0 +1,9 @@
+pyspark
+geopy
+textblob
+matplotlib
+folium
+wordcloud
+pandas
+numpy
+scikit-learn
